@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-###### Olá, Me chamo Gustavo Pedroso de Albuquerque, tenho 17 anos e sou natural de São Roque-SP. Recentemente terminei de cursar Desenvolvimento de Sistemas na ETEC. E pretendo engressar em alguma faculdade da aréa.
+###### Olá, Me chamo Gustavo Pedroso de Albuquerque, tenho 18 anos e sou natural de São Roque-SP. Recentemente terminei de cursar Desenvolvimento de Sistemas na ETEC. E recentemente ingressei em Ciência da Computação.
 <div> 
   <a href="https://instagram.com/gustav0oo1_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavogutola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
