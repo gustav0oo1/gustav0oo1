@@ -1,6 +1,6 @@
-# 👨‍💻 Gustavo Pedroso
+# Olá, Mundo! Eu sou Gustavo Pedroso 👨‍💻
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
 ###### Olá, Me chamo Gustavo Pedroso de Albuquerque, tenho 18 anos e sou natural de São Roque-SP. Recentemente terminei de cursar Desenvolvimento de Sistemas na ETEC. E recentemente ingressei em Ciência da Computação.
 <div> 
